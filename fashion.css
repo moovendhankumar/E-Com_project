@@ -1,0 +1,21 @@
+    .heading {
+        text-align: center;
+        color: black;
+        font-weight: 900;
+        font-size: xx-large;
+        margin-top: 20px;
+    }
+    
+    .prodect-card img {
+        width: 30%;
+        height: 10%;
+    }
+    
+    .prodect {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 10px;
+        gap: 10px;
+    }
